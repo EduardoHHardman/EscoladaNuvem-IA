@@ -1,0 +1,28 @@
+2025-05-19 19:25:09.112 [info] (Client) Pylance async client (2025.5.1) started with python extension (2025.6.1)
+2025-05-19 19:25:11.669 [info] [Info  - 7:25:11 PM] (205) Server root directory: file:///home/eduardo/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-19 19:25:11.670 [info] [Info  - 7:25:11 PM] (205) Pylance language server 2025.5.1 (pyright version 1.1.400, commit b962ffc2) starting
+2025-05-19 19:25:11.670 [info] [Info  - 7:25:11 PM] (205) Starting service instance "escoladanuvem" for workspace "/home/eduardo/escoladanuvem"
+2025-05-19 19:25:12.012 [info] [Info  - 7:25:12 PM] (205) Setting environmentName for service "escoladanuvem": "3.8.10 (global)"
+2025-05-19 19:25:12.014 [info] [Info  - 7:25:12 PM] (205) Setting pythonPath for service "escoladanuvem": "/bin/python3"
+2025-05-19 19:25:12.014 [info] [Info  - 7:25:12 PM] (205) No include entries specified; assuming /home/eduardo/escoladanuvem
+2025-05-19 19:25:12.016 [info] [Info  - 7:25:12 PM] (205) Auto-excluding **/node_modules
+2025-05-19 19:25:12.016 [info] [Info  - 7:25:12 PM] (205) Auto-excluding **/__pycache__
+2025-05-19 19:25:12.017 [info] [Info  - 7:25:12 PM] (205) Auto-excluding **/.*
+2025-05-19 19:25:12.145 [info] [Info  - 7:25:12 PM] (205) Assuming Python version 3.8.10.final.0
+2025-05-19 19:25:13.044 [info] [Info  - 7:25:13 PM] (205) Found 2 source files
+2025-05-19 19:25:13.254 [info] [Info  - 7:25:13 PM] (205) Setting environmentName for service "escoladanuvem": "3.8.10 (global)"
+2025-05-19 19:25:13.254 [info] [Info  - 7:25:13 PM] (205) Setting pythonPath for service "escoladanuvem": "/bin/python3"
+2025-05-19 19:25:13.255 [info] [Info  - 7:25:13 PM] (205) No include entries specified; assuming /home/eduardo/escoladanuvem
+2025-05-19 19:25:13.255 [info] [Info  - 7:25:13 PM] (205) Auto-excluding **/node_modules
+2025-05-19 19:25:13.258 [info] [Info  - 7:25:13 PM] (205) Auto-excluding **/__pycache__
+2025-05-19 19:25:13.258 [info] [Info  - 7:25:13 PM] (205) Auto-excluding **/.*
+2025-05-19 19:25:13.476 [info] [Info  - 7:25:13 PM] (205) Assuming Python version 3.8.10.final.0
+2025-05-19 19:25:14.079 [info] [Info  - 7:25:14 PM] (205) Found 2 source files
+2025-05-19 19:25:16.411 [info] [Info  - 7:25:16 PM] (205) BG: Priority queue background worker(2) root directory: file:///home/eduardo/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-19 19:25:16.411 [info] [Info  - 7:25:16 PM] (205) BG: Priority queue background worker(2) started
+2025-05-19 19:25:19.384 [info] [Info  - 7:25:19 PM] (205) BG: Indexer background runner(3) root directory: file:///home/eduardo/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1/dist (index)
+2025-05-19 19:25:19.384 [info] [Info  - 7:25:19 PM] (205) BG: Indexing(3) started
+2025-05-19 19:25:22.895 [info] [Info  - 7:25:22 PM] (205) BG: [IDX(3)] Long operation: scan packages file:///home/eduardo/escoladanuvem (2798ms)
+2025-05-19 19:25:22.895 [info] [Info  - 7:25:22 PM] (205) BG: scanned(3) 75 files over 1 exec env
+2025-05-19 19:25:23.367 [info] [Info  - 7:25:23 PM] (205) BG: indexed(3) 75 files over 1 exec env
+2025-05-19 19:25:23.444 [info] [Info  - 7:25:23 PM] (205) BG: Indexing finished(3).
