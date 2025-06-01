@@ -15,7 +15,7 @@ Divisão por zero
 Operação inválida
 Use try/except para capturar e tratar os erros apropriadamente.
 Após cada erro, o programa deve informar o usuário sobre o erro e solicitar nova entrada.
-Quando uma operação é concluída com sucesso, exiba o resultado e encerre o programa.
+Quando uma operação é concluída com sucesso, exiba o resultado e encerre o programa.1
 """
 while True:
     try:

@@ -6,7 +6,7 @@ a informar a quantidade de caracteres dessa senha aleatória.
 string.ascii_letters: letras maiúsculas e minúsculas.
 string.digits: números de 0 a 9.
 string.punctuation: caracteres especiais como !@#$%&*(), etc.
-random.choice(): escolhe aleatoriamente um caractere da lista.
+random.choice(): escolhe aleatoriamente um caractere da lista.1
 """
 
 import random
