@@ -1,0 +1,31 @@
+# Ignorar arquivos e pastas do VSCode remoto e local
+.vscode-server/
+.vscode/
+
+# Ignorar histórico do shell
+.bash_history
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar cache do dotnet
+.dotnet/
+
+# Ignorar arquivos temporários e caches
+*.tmp
+*.temp
+*.cache
+
+# Ignorar ambiente virtual Python (caso use)
+venv/
+
+# Ignorar arquivos pessoais de configuração do usuário
+.gitconfig
+.ssh/
+
+# Ignorar pasta de históricos e configurações do VSCode
+.vscode-server/data/User/History/
+
+# Ignorar arquivos de configuração do WSL
+.wsl-config
+
