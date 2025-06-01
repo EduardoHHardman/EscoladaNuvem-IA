@@ -34,16 +34,15 @@ elif media < 5:
 
 else:
   print("Aluno em exame")
+  nota_exame = float(input("entre com a nota do exame: "))
+  print(f"Nota do exame: {nota_exame:.1f}")
 
-nota_exame = float(input("entre com a nota do exame: "))
-print(f"Nota do exame: {nota_exame:.1f}")
+  # Cáculo da média final e condição do aluno após média final ("aprovado" ou "reprovado")
+  media_final = (nota_exame + media) / 2
 
-# Cáculo da média final e condição do aluno após média final ("aprovado" ou "reprovado")
-media_final = (nota_exame + media) / 2
+  if media_final >= 5:
+   print("Aluno aprovado")
+  else:
+   print("Aluno reprovado")
 
-if media_final >= 5:
-  print("Aluno aprovado")
-else:
-  print("Aluno reprovado")
-
-print(f"Média final: {media_final:.1f}")
+   print(f"Média final: {media_final:.1f}")

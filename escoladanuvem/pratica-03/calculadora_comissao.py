@@ -10,7 +10,7 @@ montante total das vendas efetuadas por este vendedor, respectivamente.
 Saída: Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 
 """
-nome = (input("Informe o do vendedor: "))
+nome = (input("Informe o nome do vendedor: "))
 
 
 salario_fixo = float(input("Informe o salário fixo: R$ "))

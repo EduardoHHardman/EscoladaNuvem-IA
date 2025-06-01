@@ -1,8 +1,3 @@
-def calcular_desconto(preco, percentual_desconto):
- desconto = preco * (percentual_desconto/ 100)
- preco_final = preco - desconto
- return preco_final
-
 """
 Crie um programa que receba o preço original de um produto
 e um percentual de desconto, realizando o cálculo do preço final após a aplicação do desconto.
@@ -12,6 +7,11 @@ e um percentual de desconto, realizando o cálculo do preço final após a aplic
  Entrada esperada: preço do produto (exemplo: 250.75) e o percentual de desconto (exemplo: 10).
 
 """
+def calcular_desconto(preco, percentual_desconto):
+     desconto = preco * (percentual_desconto/ 100)
+     preco_final = preco - desconto
+     return preco_final
+
 
 preco_original = float(input("Digite o preço do produto: R$"))
 desconto = float(input("Digite o percentual do desconto: "))
